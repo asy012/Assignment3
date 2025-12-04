@@ -1,1 +1,3 @@
 # Assignment3
+
+Treasure Hunt is a compact real-time console game written in C, where the player moves the character '@' using the WSAD control system to explore a randomly generated maze, collect gold '$', avoid traps 'X', and survive moving enemies 'M' while racing against a shrinking timer. Each level becomes more challenging with increased enemies, traps, and gold requirements, and every run generates a new layout for a fresh experience. The game supports real-time keyboard input on both Windows and Linux using non-blocking input handling, and it automatically saves the best score in a high-score file, making it an ideal small-scale project for learning grid-based logic, procedural generation, and fast console game loops in C.
